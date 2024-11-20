@@ -3,4 +3,4 @@ Our Python project focused on predicting medical insurance charges using demogra
 
 GOOGLE COLLAB LINK- https://colab.research.google.com/drive/1NO4glc7PgnGsA6laL__wgwGxQEIp30B9?usp=sharing
 
-PROJECT LINK- https://drive.google.com/file/d/1PZlkz8Fa_QglUosErbG_OxWfX_DR5RAp/view?usp=drive_link
+PROJECT LINK- https://drive.google.com/file/d/1PZlkz8Fa_QglUosErbG_OxWfX_DR5RAp/view?usp=sharing
